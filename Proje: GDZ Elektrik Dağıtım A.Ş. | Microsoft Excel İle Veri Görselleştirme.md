@@ -1,6 +1,6 @@
 <p align="center">
   <b>Proje</b><br>
-  GDZ Elektrik Dağıtım A.Ş. | Microsoft Excel İle Veri Görselleştirme
+  GDZ Elektrik Dağıtım A.Ş. | Microsoft Excel İle Veri Analizi
 </p>
 
 ---
