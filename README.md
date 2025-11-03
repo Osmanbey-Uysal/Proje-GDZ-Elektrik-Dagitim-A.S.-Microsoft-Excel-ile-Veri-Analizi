@@ -1,0 +1,1 @@
+# Proje-GDZ-Elektrik-Dagitim-A.S.-Microsoft-Excel-ile-Veri-Analizi
